@@ -1,0 +1,1 @@
+bin/main/main.o dependencies/main/main.dep : src/main/main.cc

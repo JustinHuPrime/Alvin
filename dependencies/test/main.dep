@@ -1,0 +1,2 @@
+bin/test/main.o dependencies/test/main.dep : src/test/main.cc \
+ libs/Catch2/single_include/catch2/catch.hpp
